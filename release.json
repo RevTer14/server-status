@@ -1,4 +1,6 @@
 {
+  "app_server_status": false
+  "app_beta_status": false
   "game_version": "1.0.1",
   "game_url": "https://github.com/RevTer14/server-status/releases/download/v1.0.1/app-game-release.apk"
 }
